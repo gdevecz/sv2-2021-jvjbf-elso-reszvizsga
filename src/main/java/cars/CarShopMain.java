@@ -2,6 +2,9 @@ package cars;
 
 public class CarShopMain {
 
+    public CarShopMain() {
+    }
+
     public static void main(String[] args) {
 
         ///1. rész
